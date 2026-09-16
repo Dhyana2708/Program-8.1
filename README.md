@@ -1,10 +1,12 @@
 # Program-8.1
 This program is for calculting the sum of Square of 10 integral digits scanned form user using Arrays concept
+ //Dhyana Gandhi; IT; Batch:F3;
+    //Program for finding sum of 10 scanned integers
+    ```c
 #include<stdio.h>
 int main()
 {
-     //Dhyana Gandhi; IT; Batch:F3;
-    //Program for finding sum of 10 scanned integers
+    
     printf("Program for finding sum of 10 scanned integers \n");
     
     
